@@ -1,3 +1,10 @@
 # Pollution_Mobility_COVID19_Mexico
-Curated data created for the article "Pollution and Mobility in the Mexico City Metropolitan Area in Times of COVID-19".
-Please cite the paper if you use this repository.
+Curated data created for the articles:
+
+* "Air Pollution And Mobility In The Mexico City Metropolitan Area In Times Of COVID-19", Atmosfera 2021
+
+and 
+
+* "Air pollution and mobility, what carries COVID-19?", Econometrics 2021
+
+Please cite the papers if you use this repository.
